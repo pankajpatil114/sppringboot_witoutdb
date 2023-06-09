@@ -1,0 +1,6 @@
+
+public class Employee extends User {
+void getogin(String name) {
+	System.out.println("code successfull");
+}
+}

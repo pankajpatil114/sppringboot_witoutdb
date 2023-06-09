@@ -1,0 +1,8 @@
+
+
+public class Linklist{
+	public static void main(String[] args) {
+	Linklist<String> list=new Linklist<String>();
+	
+	}
+}

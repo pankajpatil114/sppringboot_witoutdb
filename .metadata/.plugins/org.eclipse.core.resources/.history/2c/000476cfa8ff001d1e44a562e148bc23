@@ -1,0 +1,24 @@
+
+public class Array {
+// dynamic array
+//	in dynamic we change the array values in static we cannot
+//	public static void main(String[] args) {
+//		int a[]= {50,25,36,89,50};
+//		System.out.println(a[2]);
+//		}
+//	static array
+	public static void main(String[] args) {
+	
+	int a[]=new int[5];
+	a[0]=200;
+	a[1]=222;
+	a[2]=484;
+	a[3]=485;
+	a[4]=954;
+	for(int i=0;i<5;i++) {
+		System.out.println(a[i]);
+	}
+	
+	
+}
+}

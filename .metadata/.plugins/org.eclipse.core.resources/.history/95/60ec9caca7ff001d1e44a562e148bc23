@@ -1,0 +1,9 @@
+
+public class Array {
+// dynamic array
+	public static void main(String[] args) {
+		int a[]= {50,25,36,89,50};
+		System.out.println(a[2]);
+		}
+	
+}

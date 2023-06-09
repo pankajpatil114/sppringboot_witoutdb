@@ -1,0 +1,12 @@
+import java.util.LinkedList;
+
+public class Linklist{
+	public static void main(String[] args) {
+	LinkedList<String> list=new LinkedList<String>();
+	list.add("one");
+	list.add("two");
+	list.add("three");
+	System.out.println(list);
+//	to add value first,list  addfirst,addlast method are there
+	}
+}

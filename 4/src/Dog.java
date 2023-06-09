@@ -1,0 +1,13 @@
+
+public class Dog extends Animal {
+
+	Dog(){
+		super();
+	}
+void bark() {
+	System.out.println("the dog is barking");
+super.sleep();
+System.out.println(super.age);
+
+}
+}

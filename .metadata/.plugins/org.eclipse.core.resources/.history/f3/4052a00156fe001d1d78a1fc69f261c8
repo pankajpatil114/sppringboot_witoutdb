@@ -1,0 +1,11 @@
+
+public class Overloadusinginheritance {
+public static void main(String[] args) {
+	Employee E1= new Employee();
+	E1.getlogin();
+		
+}
+
+}
+
+

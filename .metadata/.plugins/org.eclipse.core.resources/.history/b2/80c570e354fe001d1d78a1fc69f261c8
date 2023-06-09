@@ -1,0 +1,11 @@
+
+public class Overloading {
+//OVERLOADING USING INHERITANCE
+	void getlogin() {
+		System.out.println("login success");
+		
+	}
+	
+	
+	
+}

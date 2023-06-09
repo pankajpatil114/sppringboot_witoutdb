@@ -1,0 +1,9 @@
+
+abstract class Abstraction {
+
+
+void demo() {
+	Abstraction xx= new Abstraction();
+	xx.demo();
+	
+}}

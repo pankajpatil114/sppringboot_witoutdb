@@ -1,0 +1,10 @@
+
+public class Dog extends Animal {
+void bark() {
+	System.out.println("the dog is barking");
+}
+public static void main(String[] args) {
+	Dog bb=new Dog();
+	bb.bark();
+}
+}

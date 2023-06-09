@@ -1,0 +1,9 @@
+
+public class Animal {
+	
+		int age=5;
+	}
+void sleep() {
+	System.out.println("animal is sleeping");
+}
+}

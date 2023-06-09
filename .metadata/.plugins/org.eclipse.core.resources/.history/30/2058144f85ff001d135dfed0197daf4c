@@ -1,0 +1,23 @@
+import java.util.ArrayList;
+
+public class Arraylistsize {
+
+	private static Object ArrayList;
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+ArrayList <String> list= new Arraylist<String>();
+
+list.add("one");
+list.add("two");
+list.add("three");
+//System.out.println(list.size());
+list.add("four");
+list.add("five");
+System.out.println(list.size());
+list.remove("three");
+System.out.println(list.size());
+		
+	}
+
+}

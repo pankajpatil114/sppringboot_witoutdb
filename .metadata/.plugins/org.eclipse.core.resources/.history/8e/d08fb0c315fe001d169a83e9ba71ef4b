@@ -1,0 +1,11 @@
+
+public class Overriding2 extends Overriding{
+@Override
+	void shape2() {
+		System.out.println("it is square shape");
+	}
+	
+	
+	
+	
+}

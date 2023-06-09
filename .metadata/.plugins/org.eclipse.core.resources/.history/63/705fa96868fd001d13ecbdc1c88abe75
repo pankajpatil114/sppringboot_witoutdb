@@ -1,0 +1,19 @@
+
+public class Constructor {
+	
+	Constructor(){
+		System.out.println( "1 month free ");
+	}
+	Constructor(String collegename)
+	{
+		System.out.println("welcome to "+collegename+ "college");
+	}
+	
+	void doadmission() {
+		System.out.println("admission success");
+	}
+	public static void main( String[] args) {
+ Constructor aa=new Constructor("tasgaonkar");
+ aa.doadmission();
+}
+}

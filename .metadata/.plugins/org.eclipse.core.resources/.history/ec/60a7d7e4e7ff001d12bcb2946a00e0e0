@@ -1,0 +1,5 @@
+import java.util.ArrayList;
+
+public class Linkedlist<T> extends ArrayList<String> {
+
+}

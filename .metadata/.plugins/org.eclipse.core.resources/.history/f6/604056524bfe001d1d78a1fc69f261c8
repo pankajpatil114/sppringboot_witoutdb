@@ -1,0 +1,20 @@
+
+public class Overloadin {
+void add() {
+	int a=20;
+int b=25;
+ int c= a+b;
+ System.out.println("addition of two numbers is"+c);
+ 
+
+}
+void add(int x, double y) {
+	double z=x+y;
+}
+public static void main (String[] args) {
+	
+	Overloadin xx = new Overloadin();
+	xx.add();
+	xx.add(5,60.4);
+}
+}
